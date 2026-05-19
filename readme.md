@@ -14,6 +14,7 @@ We also believe that the OTTO should be open and available to all students.
 
 ### Otto links
 
-[https://www.ottodiy.com/](https://www.ottodiy.com/) Official Otto website
-[https://github.com/ottodiy](https://github.com/ottodiy) Github page
+[https://www.ottodiy.com/](https://www.ottodiy.com/) Official Otto website.
+
+[https://github.com/ottodiy](https://github.com/ottodiy) Github page.
 

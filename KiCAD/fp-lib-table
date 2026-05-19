@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Econode") (type "KiCad") (uri "${KIPRJMOD}/Econode.pretty") (options "") (descr ""))
+)

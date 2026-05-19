@@ -14,7 +14,7 @@ We also believe that the OTTO should be open and available to all students.
 
 ![9G Servo with JST-PH](images/Servo9G_with_JST_PH.png)
 
-9 gram servo with JST-PH 2.0mm connector. This connector style has many advantages over the normal Dupont style connectors, IE not reversible and they lock into place. One challenge is converting a cheap Aliexpress servo to use JST, a local supply can perform this mod for $1 NZ each.
+9 gram servo with JST-PH 2.0mm connector. This connector style has many advantages over the normal Dupont style connectors, IE not reversible and they lock into place. One challenge is converting a cheap Aliexpress servo to use JST, a local supplier can perform this mod for $1 NZ each.
 
 This is the same conversion HP do on the commercial Otto.
 

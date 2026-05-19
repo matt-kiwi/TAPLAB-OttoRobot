@@ -8,4 +8,6 @@ The opensource version of OTTO is many years old and based on the Arduino UNO 8 
 
 We also believe that the OTTO should be open and available to all students.
 
-![PCB photo](/home/matt/Downloads/otto_pcb_rev_0_1.png)
+![PCB photo](/images/otto_pcb_rev_0_1.png)
+
+*initial PCB design 19th May 2026
